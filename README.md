@@ -26,5 +26,5 @@ UIはAtom DarkよりOne Darkの方があんま違和感なくておすすめ。
 ## thanx
 hedgehog's illustration by: http://kage-design.com/
 
-## Donate
+## Twitter
 [Twitter](https://twitter.com/jushin_ps)
