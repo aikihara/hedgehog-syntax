@@ -1,0 +1,30 @@
+{
+    "name": "hedgehog-syntax",
+    "theme": "syntax",
+    "version": "0.0.0",
+    "description": "Walking hedgehog. Cute theme.",
+    "keywords": [
+        "syntax",
+        "theme",
+        "hedgehog",
+        "cawaii",
+        "cute",
+        "pastel",
+        "dark"
+    ],
+    "repository": "https://github.com/atom/hedgehog-syntax",
+    "license": "MIT",
+    "engines": {
+        "atom": ">=1.0.0 <2.0.0"
+    },
+    "configSchema": {
+        "NoIllust": {
+            "type": "boolean",
+            "default": false
+        },
+        "NoWalking": {
+            "type": "boolean",
+            "default": false
+        }
+    }
+}
