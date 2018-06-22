@@ -9,7 +9,7 @@ Hedgehog walk on your editor in an hour(to left).
 ![ss](https://user-images.githubusercontent.com/35618981/41754059-ab4c8418-760b-11e8-8eee-f9cf6f99e409.jpg)
 
 ## Install
-'apm install hedgehog-syntax'
+`apm install hedgehog-syntax`
 
 ## Setting
 Umm, may be, you don't need walking hedgehog. (does such a person exist?)  
