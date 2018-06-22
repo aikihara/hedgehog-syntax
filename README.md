@@ -12,11 +12,11 @@ Hedgehog walk on your editor in an hour(to left).
 Umm, may be, you don't need walking hedgehog. (does such a person exist?)  
 When you do not need a background image, check "No Illust".  
 If you need a background image, but you do not want to walk the background image, check "No Walking".  
-And, if you want to change image, you change "bg.png" yourself in "C:\Users\user_name\.atom\packages\hedgehog-syntax\img\".
+And, if you want to change image, you change "bg.png" yourself in "C:\Users\user_name\.atom\packages\hedgehog-syntax\styles\img\".
 
 はりねずみが歩かなくていい人…いるのかしら…一応設定つけとくけど…。  
 "No Illust"で背景イメージを消し、"No Walking"で右下に固定します。  
-画像を変更したいときは、"C:\Users\user_name\.atom\packages\hedgehog-syntax\img\"内にある"bg.png"を変更してください。
+画像を変更したいときは、"C:\Users\user_name\.atom\packages\hedgehog-syntax\styles\img\"内にある"bg.png"を変更してください。
 
 ## UI
 I recommend One Dark for this theme.
