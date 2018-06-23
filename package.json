@@ -10,7 +10,7 @@
     "pastel",
     "dark"
   ],
-  "repository": "https://github.com/aikihara/hedgehog-syntax",
+  "repository": "https://github.com/juuuuushin/hedgehog-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
