@@ -11,6 +11,10 @@
     "dark"
   ],
   "repository": "https://github.com/juuuuushin/hedgehog-syntax",
+  "bugs": {
+    "url": "https://github.com/juuuuushin/hedgehog-syntax/issues"
+  },
+  "homepage": "https://github.com/juuuuushin/hedgehog-syntax#readme",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
