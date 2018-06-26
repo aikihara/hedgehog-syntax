@@ -1,7 +1,7 @@
 {
   "name": "hedgehog-syntax",
   "theme": "syntax",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Walking hedgehog. Cute theme.",
   "keywords": [
     "syntax",
@@ -27,6 +27,10 @@
     "NoWalking": {
       "type": "boolean",
       "default": false
-    }
+  },
+  "NoWalkingPosition": {
+      "type": "string",
+      "default": "right 10px bottom"
+  }
   }
 }
