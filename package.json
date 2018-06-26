@@ -27,10 +27,6 @@
     "NoWalking": {
       "type": "boolean",
       "default": false
-    },
-    "NoWalkingPosition": {
-      "type": "string",
-      "default": "right 10px bottom"
     }
   }
 }
