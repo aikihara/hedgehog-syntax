@@ -3,25 +3,18 @@
 atom-workspace-axis {
     background-color: @syntax-background-color;
 }
+
+.illust {
+    background: transparent url(atom://hedgehog-syntax/styles/img/bg.png) no-repeat right 10px bottom;
+}
 .illust when (@illust) {
     background: transparent;
 }
-.illust when not (@illust) {
-    background: transparent url(atom://hedgehog-syntax/styles/img/bg.png) no-repeat right 10px bottom;
+.walk {
+    animation: walkhedgehog 3600s linear infinite;
 }
 .walk when (@walk) {
     animation: none;
-}
-.walk when not (@walk) {
-    animation: walkhedgehog 3600s linear infinite;
-}
-@keyframes walkhedgehog {
-    0% {
-        background-position: right -82px bottom;
-    }
-    100% {
-        background-position: left -92px bottom;
-    }
 }
 atom-text-editor {
     .illust;
@@ -319,4 +312,15 @@ atom-text-editor {
 // Mini editor
 atom-text-editor[mini] .scroll-view {
     padding-left: 1px;
+}
+
+
+//keyframes
+@keyframes walkhedgehog {
+    0% {
+        background-position: right -82px bottom;
+    }
+    100% {
+        background-position: left -92px bottom;
+    }
 }
