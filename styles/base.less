@@ -66,6 +66,15 @@ atom-text-editor {
     .selection .region {
         background-color: @syntax-selection-color;
     }
+
+    ::-webkit-scrollbar-track {
+        background-color: @syntax-background-color !important;
+    }
+    ::-webkit-scrollbar-thumb {
+        border: none !important;
+        background-color: @syntax-gutter-text-color-selected !important;
+    }
+
 }
 // Syntax styles
 .syntax--comment {
