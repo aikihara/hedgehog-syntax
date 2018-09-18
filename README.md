@@ -33,5 +33,5 @@ hedgehog's illustration by: http://kage-design.com/
 [Twitter](https://twitter.com/jushin_ps)
 
 ## Update
-2018.9.18. update - Display a hedgehog at the same position when a new tab is opened.
+2018.9.18. update - Display a hedgehog at the same position when a new tab is opened.  
 2018.6.22. publish
