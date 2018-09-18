@@ -1,14 +1,12 @@
 @import "syntax-variables";
 
-atom-workspace-axis {
-    background-color: @syntax-background-color;
-}
-
 .illust {
-    background: transparent url(atom://hedgehog-syntax/styles/img/bg.png) no-repeat right 10px bottom;
+    background-image: url(atom://hedgehog-syntax/styles/img/bg.png);
+    background-repeat: no-repeat;
+    background-position: right 10px bottom;
 }
 .illust when (@illust) {
-    background: transparent;
+    background-image: none;
 }
 .walk {
     animation: walkhedgehog 3600s linear infinite;
@@ -16,9 +14,15 @@ atom-workspace-axis {
 .walk when (@walk) {
     animation: none;
 }
-atom-text-editor {
+
+atom-workspace-axis {
     .illust;
     .walk;
+    background-color: @syntax-background-color;
+}
+
+atom-text-editor {
+
     color: @syntax-text-color;
 
     .wrap-guide {
