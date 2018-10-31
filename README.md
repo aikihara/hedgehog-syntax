@@ -29,8 +29,9 @@ UIはAtom DarkよりOne Darkの方があんま違和感なくておすすめ。
 ## thanx
 hedgehog's illustration by: http://kage-design.com/
 
-## Twitter
-[Twitter](https://twitter.com/jushin_ps)
+## Contact
+From my website.  
+[mylog](https://kihara.coresv.com/)
 
 ## Update
 2018.9.18. update - Display a hedgehog at the same position when a new tab is opened.  
